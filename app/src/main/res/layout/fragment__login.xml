@@ -23,7 +23,7 @@
             android:textSize="15dp"
             android:id="@+id/edLogin_UserName"
             android:padding="10dp"
-            android:hint="Full Name"/>
+            android:hint="Username"/>
     </com.google.android.material.textfield.TextInputLayout>
 
     <com.google.android.material.textfield.TextInputLayout

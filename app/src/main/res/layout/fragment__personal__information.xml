@@ -25,7 +25,7 @@
             android:layout_below="@id/img_user"
             android:fontFamily="@font/open_sans"
             android:textColor="@color/white"
-            android:text="Trần Anh Phong"
+            android:text="Ten nguoi dung"
             android:textSize="25sp"
             android:layout_centerHorizontal="true"
             android:layout_marginTop="5dp"/>
